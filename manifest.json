@@ -1,0 +1,9 @@
+{
+  "name": "BigFriendlyButton",
+  "version_number": "1.0.1",
+  "website_url": "https://thunderstore.io/c/repo/p/Vippy/",
+  "description": "Confirm extraction with a button, press again to cancel. Host only, nobody else needs it. Ready light, progress bar, send early. Works with Zehs' confirm button even if you don't have it, and turned off you stay compatible.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
